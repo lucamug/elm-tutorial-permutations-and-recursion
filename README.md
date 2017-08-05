@@ -1,4 +1,4 @@
-# Elm Scroll Resize Events
+# Tutorial - Permutation and Recursion in Elm
 
 ## [Demo](https://lucamug.github.io/elm-tutorial-permutations-and-recursion/)
 
